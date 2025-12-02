@@ -15,7 +15,7 @@ const fontMono = FontMono({
 });
 
 export const metadata: Metadata = {
-  title: "Think with Hendo",
+  title: "Yap with Hendo",
   description: "Blog about programming and other topics",
 };
 
